@@ -54,3 +54,5 @@ The database tool is defined in `chatbot.py`:
 - "Top 5 movies by IMDB rating"
 - "Which director has the most movies?"
 - "Highest grossing movie in the dataset"
+
+![ALT]()
