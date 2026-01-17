@@ -54,5 +54,6 @@ The database tool is defined in `chatbot.py`:
 - "Top 5 movies by IMDB rating"
 - "Which director has the most movies?"
 - "Highest grossing movie in the dataset"
+DEMO:
 
-![ALT]()
+![ALT](https://github.com/gautam-upadhyay/Agentic-ChatBot-using-LangGraph_LLM-qwen2-7b-/blob/main/image.png?raw=true)
